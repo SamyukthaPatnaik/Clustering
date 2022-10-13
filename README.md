@@ -12,3 +12,15 @@
 
 - After clustering, each cluster is assigned a number called a cluster ID. Now, you can condense the entire feature set for an example into its cluster ID. Representing a complex example by a simple cluster ID makes clustering powerful.
 
+![Image](https://codinghero.ai/wp-content/uploads/2021/04/Clustering.jpg.webp)
+ 
+ ## Types of Clustering Methods
+- The clustering methods are broadly divided into Hard clustering (datapoint belongs to only one group) and Soft Clustering (data points can belong to another group also). 
+- But there are also other various approaches of Clustering exist. Below are the main clustering methods used in Machine learning:
+
+1. Partitioning Clustering
+2. Density-Based Clustering
+3. Distribution Model-Based Clustering
+4. Hierarchical Clustering
+5. Fuzzy Clustering
+
