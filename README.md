@@ -24,3 +24,10 @@
 4. Hierarchical Clustering
 5. Fuzzy Clustering
 
+## Clustering Algorithms
+ 
+The clustering algorithm is based on the kind of data that we are using. Such as, some algorithms need to guess the number of clusters in the given dataset, whereas some are required to find the minimum distance between the observation of the dataset.
+
+Here we are discussing mainly popular Clustering algorithms that are widely used in machine learning:
+
+**K-Means algorithm:** The k-means algorithm is one of the most popular clustering algorithms. It classifies the dataset by dividing the samples into different clusters of equal variances. The number of clusters must be specified in this algorithm. It is fast with fewer computations required, with the linear complexity of O(n).
